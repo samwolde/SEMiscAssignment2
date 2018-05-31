@@ -4,4 +4,4 @@ This is the implementation of the interfacing between cpp header file and cpp fi
 
 Language: C++
 
-Compile main.cpp linking with implementer.c then run the executable file
+Compile main.cpp linking with implementer.cpp then run the executable file
